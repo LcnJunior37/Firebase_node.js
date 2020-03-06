@@ -1,0 +1,24 @@
+{
+  "name": "test_firebase_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LcnJunior37/Test_Firebase_node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LcnJunior37/Test_Firebase_node.js/issues"
+  },
+  "homepage": "https://github.com/LcnJunior37/Test_Firebase_node.js#readme",
+  "dependencies": {
+    "firebase": "^7.9.1",
+    "nodemon": "^2.0.2"
+  }
+}
