@@ -4,4 +4,5 @@
 - Create a project in firebase.
 - Rename `.env.template` to `.env`.
 - Fill the `.env`.
+- Run in console `npm i`
 - Run in console `npm run dev`.
